@@ -2,7 +2,7 @@ package Praktikum01;
 
 import java.util.Scanner;
 
-public class No06B {
+public class no06 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner (System.in);
